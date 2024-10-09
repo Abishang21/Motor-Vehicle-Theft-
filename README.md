@@ -18,4 +18,17 @@ The insights and recommendations in this project are provided in the following k
   
   Find the Power BI reports used for data inspection and cleaning [here](https://github.com/user-attachments/assets/cc2d9ce7-c8ae-4f86-a249-a0f903232d6e)
 
-An interactive Power BI dashboard showcasing the analysis can be downloaded [here]
+An interactive Power BI dashboard showcasing the analysis can be downloaded [here](https://github.com/user-attachments/assets/e46fbe3d-ed89-4e1c-891c-7107a0dd99a0)
+
+Data Structure & Initial Checks
+
+The police database structure as seen below consists of three tables: Make, Stolen_Vehicles, and Locations, with a total row count of 4,707 records.
+
+![2](https://github.com/user-attachments/assets/d89e65b9-0e41-4397-b404-597eecbc4e2a)
+![Capture](https://github.com/user-attachments/assets/26b9849b-08a0-48df-a206-f3bf479c9116)
+![1](https://github.com/user-attachments/assets/442dee4c-9e77-4654-bd77-d41f017c1681)
+ 
+
+
+
+    
