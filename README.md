@@ -18,7 +18,7 @@ The insights and recommendations in this project are provided in the following k
   
 Find the Power BI reports used for data inspection and cleaning [here](https://github.com/user-attachments/assets/cc2d9ce7-c8ae-4f86-a249-a0f903232d6e)
 
-An interactive Power BI dashboard showcasing the analysis can be downloaded [here](https://github.com/user-attachments/files/17305003/motor.theft_viz.pdf)
+An interactive Power BI dashboard showcasing the analysis can be downloaded [here](https://github.com/user-attachments/files/17305231/motor.theft_viz.-.pdf)
 
 **Data Structure & Initial Checks**
 
