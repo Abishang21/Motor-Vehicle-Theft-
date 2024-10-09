@@ -18,7 +18,7 @@ The insights and recommendations in this project are provided in the following k
   
 Find the Power BI reports used for data inspection and cleaning [here](https://github.com/user-attachments/assets/cc2d9ce7-c8ae-4f86-a249-a0f903232d6e)
 
-An interactive Power BI dashboard showcasing the analysis can be downloaded [here](https://github.com/user-attachments/assets/e46fbe3d-ed89-4e1c-891c-7107a0dd99a0)
+An interactive Power BI dashboard showcasing the analysis can be downloaded [here](https://github.com/user-attachments/files/17305003/motor.theft_viz.pdf)
 
 **Data Structure & Initial Checks**
 
@@ -27,7 +27,23 @@ The police database structure as seen below consists of three tables: Make, Stol
 ![2](https://github.com/user-attachments/assets/1bb897be-e2bb-4c07-85ac-247a1c436d5a)
 ![Capture](https://github.com/user-attachments/assets/d6788b0b-6f8c-4f42-8218-e39ead2d2c71)
 ![1](https://github.com/user-attachments/assets/2c955370-c6c0-43a8-9d3b-b4834795afdb)
- 
+
+Prior to beginning the analysis, a variety of checks were conducted for quality control and to familiarise myself with the dataset. Used Power BI to performed initial data inspections, including checks for data types, summary statistics, and any anomalies within the records. These checks ensured the data was clean and ready for analysis, allowing for accurate insights into vehicle theft patterns.
+
+**Executive Summary**
+
+**Overview of Finding**
+
+Notably, Auckland experiences the highest incidence of vehicle thefts, followed closely by Canterbury. In terms of vehicle types, sedans and hatchbacks are the most frequently stolen across all areas. The average age of stolen vehicles is 23 years, indicating that older models are likely easier targets due to less sophisticated security systems. Additionally, thefts tend to peak on specific days of the week, with Monday recording the highest number of incidents.
+
+A snapshot of  Power BI dashboard 
+![](https://github.com/user-attachments/assets/e46fbe3d-ed89-4e1c-891c-7107a0dd99a0)
+
+
+
+
+
+
 
 
 
