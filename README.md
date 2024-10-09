@@ -16,6 +16,6 @@ The insights and recommendations in this project are provided in the following k
   
   iv. Vehicle Age Insights: The average age of stolen vehicles and how it varies by type.
   
-  Find the Power BI reports used for data inspection and cleaning [here](![Data Cleaning](https://github.com/user-attachments/assets/cc2d9ce7-c8ae-4f86-a249-a0f903232d6e))
+  Find the Power BI reports used for data inspection and cleaning [here](https://github.com/user-attachments/assets/cc2d9ce7-c8ae-4f86-a249-a0f903232d6e)
 
-An interactive Power BI dashboard showcasing the analysis can be downloaded here.
+An interactive Power BI dashboard showcasing the analysis can be downloaded [here]
